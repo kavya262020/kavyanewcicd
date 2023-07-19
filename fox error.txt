@@ -1,0 +1,52 @@
+Hello ATND Team,
+
+Through our monitoring instrumentation of the Fox APIs we're observing high error rate at your site.
+Please let us know if you need assistance troubleshooting or resolving these errors to reduce their occurrence rate. 
+We will gladly provide the documentation to clarify the appropriate data formats and rates to utilise for Fox APIs or we can setup a meeting with Insight DevOps & MSI DQ experts available during your working hours to help clarify any questions you may have.
+
+The major contributor is from sendResultDetails type, please review, thanks.
+
+<Screenshot 2023-01-26 at 5.07.14 PM.png>
+
+<Screenshot 2023-01-26 at 5.07.28 PM.png> 
+
+Regards,
+ Kamalesh De | Insight Devops | Bangalore, India 
+
+
+
+FanZX@ATLBattery.com
+LiLB3@ATLBattery.com
+huss@atlbattery.com
+mqm_data_quality@group.apple.com
+SDS_Operations@group.apple.com
+insight_devops@group.apple.com
+
+
+
+
+
+
+
+
+
+
+Hello FMKS Team,
+
+Through our monitoring instrumentation of the Fox APIs we're observing high error rate at your site.
+Please let us know if you need assistance troubleshooting or resolving these errors to reduce their occurrence rate. 
+We will gladly provide the documentation to clarify the appropriate data formats and rates to utilise for Fox APIs or we can setup a meeting with Insight DevOps & MSI DQ experts available during your working hours to help clarify any questions you may have.
+
+The major contributor is from sendResultDetails type, please review, thanks.
+<Screenshot 2022-12-29 at 4.27.28 PM.png>
+<PastedGraphic-1.tiff>
+Regards,
+Prahalad Babu
+ Insight India | Email: prahalad_babu@apple.com | mobile : +91-9113699490
+
+
+jhenyi_Lin@flexium.com.cn
+insight_devops@group.apple.com
+mqm_data_quality@group.apple.com
+slek@apple.com
+
